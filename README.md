@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a backend Developer who is currently working with Dlt Labs.io having working experience of 2.5 years and Have worked on Techstacks like HTML CSS Java script , Node -Js , Express-JS , PassportJS , JWT , Docker and Orchestration , Jenkins , Mongo-DB , SQL , Git and many more 
+I am a Result Driven Backend Developer who is currently working with Dlt Labs.io having working experience of 2.5 years and Have worked on Techstacks like HTML CSS Java script , Node -Js , Express-JS , PassportJS , JWT , Docker and Orchestration , Jenkins , Mongo-DB , SQL , Git and many more 
 
 
 ## 🌐 Socials:
@@ -19,6 +19,4 @@ I am a backend Developer who is currently working with Dlt Labs.io having workin
 ![](https://github-contributor-stats.vercel.app/api?username=chitwang12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chitwang12&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=chitwang12&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
