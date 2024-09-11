@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a backend Developer who is currently working with Dlt Labs.io having working experience of 2.5 years and Have worked on Techstacks like HTML CSS Java script , Node -Js , Express-JS , PassportJS , JWT , Docker and Orchestration , Jenkins , Mongo-DB , SQL , Git and many more 
+I am a Result Driven backend Developer who is currently working with Dlt Labs.io having working experience of 2.5 years and Have worked on Techstacks like HTML CSS Java script , Node -Js , Express-JS , PassportJS , JWT , Docker and Orchestration , Jenkins , Mongo-DB , SQL , Git and many more 
 
 
 ## 🌐 Socials:
