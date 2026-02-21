@@ -23,7 +23,7 @@ console.log(`🔭 Currently into: ${developer.currentFocus.join(", ")}`);
 * 💪 Strong in **backend engineering**, **microservices architecture**, and **event-driven systems**
 * 🧠 Passionate about **system design**, **message queuing**, and **scalable infrastructure**
 * 📈 Currently working at **DLT Labs** - building high-throughput data pipelines and microservices
-* 🎯 3+ years of backend development experience in **banking** and **logistics** domains
+* 🎯 4 years of backend development experience in **banking** and **logistics** domains
 
 ---
 
